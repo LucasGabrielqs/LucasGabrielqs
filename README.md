@@ -2,7 +2,7 @@
 
 
 - 💻 Tec. Informática
-- 📚 Estudando Java Script
+- 📚 Estudando Java Script e C++
 - 🎓 Graduando em ADS (Análise e Desenvolvimento de Sistemas
 <div>
   <a href="https://github.com/LucasGabrielqs">
