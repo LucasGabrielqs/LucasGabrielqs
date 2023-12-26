@@ -3,7 +3,7 @@
 
 - 💻 Tec. Informática
 - 📚 Estudando Java Script e C++
-- 🎓 Graduando em ADS (Análise e Desenvolvimento de Sistemas
+- 🎓 Graduando em ADS (Análise e Desenvolvimento de Sistemas)
 <div>
   <a href="https://github.com/LucasGabrielqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielqs&show_icons=true&border_radius=15&theme=dark#gh-dark-mode-only">
